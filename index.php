@@ -5,19 +5,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WessalPet - prevoz ljubimaca</title>
+    <title>WessalPet - Pet transportation</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/about-img.jpg" type="image/x-icon">
 
     <!-- Meta tags -->
-    <meta name="author" content="Filip Zivanovic">
-    <meta name="tittle" content="WessalPet - prevoz ljubimaca">
-    <meta name="keywords" content="Prevoz. Ljubimci. Prevoz ljubimaca. Prevoz pasa. Prevoz macaka">
-    <meta name="description" content="Prevoz ljubimaca je savršen način da Vaš ljubimac stigne na
-            željeno mesto bez
-            stresa za Vas i njega. Zbog problema sa kojima se vlasnici kućnih ljubimaca svakodnevno susreću vezani za
-            prevoz, taxijem ili javnim prevozom, mi smo odlučili da Vam pomognemo.">
+    <meta name="author" content="ARAHOU Abir">
+    <meta name="tittle" content="WessalPet - Pet transportation">
+    <meta name="keywords" content="Pet-Friendly Transportation">
+    <meta name="description" content="Pet transportation
+    WessalPet is a pioneering mobile application specifically designed to cater to the unique transportation needs 
+    of pet owners and their beloved pets.With its user-friendly interface, robust technology, and specialized
+    services, WessalPet stands out as a dedicated solution for those seeking
+    safe, comfortable, and reliable travel options for themselves and their animal companions.">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
@@ -44,10 +45,10 @@
             <a href="index.php" class="logo fw-800"><strong>WessalPet</strong></a>
             <ul class="fw-bold text-uppercase">
                 <li class="mr-3"><a href="index.php">Početna</a></li>
-                <li class="mr-3"><a href="#about">O nama</a></li>
+                <li class="mr-3"><a href="#about">Unleashing the Journey: Introducing WessalPet</a></li>
                 <li class="mr-3"><a href="#services">Usluge</a></li>
                 <li class="mr-3"><a href="#contact">Kontakt</a></li>
-                <li class="mr-3"><a href="#gallery">Galerija</a></li>
+                <li class="mr-3"><a href="#gallery">Paws and Pics: WessalPet Gallery</a></li>
             </ul>
             <div class="toggle"></div>
         </div>
@@ -55,10 +56,10 @@
         <div class="hamburger-menu text-center bg-linear hidden">
             <ul class="fw-600 text-uppercase" id="list">
                 <li><a href="index.php">Početna</a></li>
-                <li class="pt-2"><a href="#about">O nama</a></li>
+                <li class="pt-2"><a href="#about">Unleashing the Journey: Introducing WessalPet</a></li>
                 <li class="pt-2"><a href="#services">Usluge</a></li>
                 <li class="pt-2"><a href="#contact">Kontakt</a></li>
-                <li class="pt-2"><a href="#gallery">Galerija</a></li>
+                <li class="pt-2"><a href="#gallery">Paws and Pics: WessalPet Gallery</a></li>
             </ul>
         </div>
 
@@ -71,9 +72,9 @@
     <!-- Header section -->
     <header class="text-center">
         <div class="header-content">
-            <h1 class="text-white fw-800 text-uppercase">Najudobniji prevoz Vaših ljubimaca</h1>
+            <h1 class="text-white fw-800 text-uppercase">WessalPet: Making Every Journey Paw-sible!</h1>
             <button type="button">
-                <a href="tel:+381628143648">Pozovite sada</a>
+                <a href="tel:+212654245696">Morocco</a>
             </button>
         </div>
     </header>
@@ -84,17 +85,22 @@
 
     <!-- About section -->
     <section class="about container" id="about">
-        <h3 class="section-tittle" data-aos="fade-up">O nama</h3>
-        <h4 class="section-subtittle" data-aos="fade-up">Najpovoljniji prevoz Vaših ljubimaca - Zakažite i uverite se
-        </h4>
-        <p class="mt-2 text-justify" data-aos="fade-up"><strong>Prevoz ljubimaca</strong> je savršen način da Vaš
-            ljubimac stigne na
-            željeno mesto bez
-            stresa za Vas i njega. Zbog problema sa kojima se vlasnici kućnih ljubimaca svakodnevno susreću vezani za
-            prevoz, taxijem ili javnim prevozom, mi smo odlučili da Vam pomognemo. Tako što ćemo Vas i Vaše ljubimce
-            bezbedno odvesti do željene adrese. Takođe imamo mesta za putnike koji će biti u pratnji pasa, ali nije
-            obavezno jer naši vozači su već dobro obučeni za brigu životinja. Vršimo prevoz do bilo koje adrese u
-            Srbiji.
+        <h3 class="section-tittle" data-aos="fade-up">Unleashing the Journey: Introducing WessalPet</h3>
+        <h4 class="section-subtittle" data-aos="fade-up">Paving the Way for Pet-Friendly Travel</h4>
+        <p class="mt-2 text-justify" data-aos="fade-up"><strong>Pet transportation</strong> WessalPet emerges as a groundbreaking solution in the realm of pet transportation,
+        addressing a long-standing challenge faced by pet owners globally.
+        This innovative mobile application is specifically tailored to make traveling with pets a hassle-free and enjoyable experience.
+        With its user-centric design,
+        WessalPet ensures that both pets and their owners are accorded the utmost comfort and safety during their journeys.
+        Understanding the unique needs of pets and their owners, WessalPet offers features that go beyond the standard ride-sharing services.
+        The vehicles are equipped with pet-friendly amenities, and drivers are specially trained in pet care and handling,
+        ensuring a smooth and stress-free ride.
+        The application's intuitive interface allows for easy booking and real-time tracking,
+        providing pet owners with a sense of security and convenience.
+        Moreover, WessalPet's commitment to building a community for pet lovers sets it apart. It's not just about transportation;
+        it's about creating a network where pet owners can share tips, experiences, and even participate in pet-related events.
+        This sense of community is at the heart of WessalPet,
+        making it more than just a service – it's a companion for you and your pet on every journey.
         </p>
 
         <div class="about-content mt-3">
@@ -115,11 +121,11 @@
                 </ul>
                 <div class="about-icons mt-3">
                     <i class="fas fa-map-marker-alt mr-2 mt-2"></i>
-                    <span>Balkanska 4, Beograd</span><br>
-                    <a href="tel:+381628143648 "><i class="fas fa-phone mr-2 mt-2"></i></a>
-                    <span>+381 62 81 43 648</span><br>
+                    <span>Casablanca, Morocco</span><br>
+                    <a href="tel:+212654245696 "><i class="fas fa-phone mr-2 mt-2"></i></a>
+                    <span>+212654245696</span><br>
                     <i class="fas fa-clock mr-2 mt-2"></i>
-                    <span>Pon-Ned: 07:00-22:00, hitne voznje: 24/7</span>
+                    <span>Casablanca: 07:00-22:00, We work: 24/7</span>
                 </div>
             </article>
 
@@ -223,17 +229,17 @@
                 <div class="contact-info-item text-center mt-3">
                     <i class="fas fa-map-marker-alt mb-2"></i>
                     <p class="fw-bold">Adresa:</p>
-                    <p>Balkanska 4, Beograd</p>
+                    <p>Casablanca 4, Morocco</p>
                 </div>
                 <div class="contact-info-item text-center mt-3">
-                    <a href="tel:+381628143648 "><i class="fas fa-phone mb-2"></i></a>
+                    <a href="tel:+212654245696 "><i class="fas fa-phone mb-2"></i></a>
                     <p class="fw-bold">Telefon:</p>
-                    <p>+381 62 81 43 648</p>
+                    <p>+212654245696</p>
                 </div>
                 <div class="contact-info-item text-center mt-3">
                     <i class="fa fa-paper-plane mb-2"></i>
                     <p class="fw-bold">Email:</p>
-                    <p>pettaxi@prevozljubimaca.rs
+                    <p>WessalPet@prevozljubimaca.rs
                     </p>
                 </div>
             </div>
@@ -246,8 +252,8 @@
 
     <!-- Gallery section -->
     <section class="gallery container" data-aos="fade-up">
-        <h3 class="section-tittle">Galerija</h3>
-        <h4 class="section-subtittle">Galerija ljubimaca naših klijenata</h4>
+        <h3 class="section-tittle">Paws and Pics: WessalPet Gallery</h3>
+        <h4 class="section-subtittle">A Glimpse into the World of Pet-Friendly Journeys</h4>
 
         <div class="gallery-content mt-4">
             <div class="gallery-content-item w-100">
@@ -279,8 +285,8 @@
         <div class="subscription-content container">
 
             <div class="subscription-content-card">
-                <a href="index.php" class="sub-logo fw-bold"><strong>PetTaxi</strong></a>
-                <p class="text-white">Best Pet Taxi</p>
+                <a href="index.php" class="sub-logo fw-bold"><strong>WessalPet</strong></a>
+                <p class="text-white">Best WessalPet</p>
             </div>
 
             <div class="subscription-content-card">
@@ -289,11 +295,11 @@
                     <li><a href="index.php" class="text-white"><i
                                 class="fas fa-angle-right mr-2 text-white"></i>Početna</a>
                     </li>
-                    <li class="pt-1"><a href="#about"><i class="fas fa-angle-right mr-2 text-white"></i>O nama</a>
+                    <li class="pt-1"><a href="#about"><i class="fas fa-angle-right mr-2 text-white"></i>Unleashing the Journey: Introducing WessalPet</a>
                     </li>
                     <li class="pt-1"><a href="#services"><i class="fas fa-angle-right mr-2 text-white"></i>Usluge</a>
                     </li>
-                    <li class="pt-1"><a href="#gallery"><i class="fas fa-angle-right mr-2 text-white"></i>Galerija</a>
+                    <li class="pt-1"><a href="#gallery"><i class="fas fa-angle-right mr-2 text-white"></i>Paws and Pics: WessalPet Gallery</a>
                     </li>
                     <li class="pt-1"><a href="#contact"><i class="fas fa-angle-right mr-2 text-white"></i>Kontakt</a>
                     </li>
@@ -316,11 +322,11 @@
             <div class="subscription-content-card">
                 <h3 class="pb-2 text-white">Kontakt</h3>
                 <ul class="text-white">
-                    <li>+381 62 81 43 648</li>
-                    <li class="pt-1">pettaxi@prevozljubimaca.rs
+                    <li>+212654245696</li>
+                    <li class="pt-1">WessalPet@gmail.com
                     </li>
-                    <li class="pt-1"> Balkanska 4</li>
-                    <li class="pt-1">Srbija, Beograd</li>
+                    <li class="pt-1"> Casablanca 4</li>
+                    <li class="pt-1">Casablanca, Morocco</li>
                 </ul>
             </div>
 
